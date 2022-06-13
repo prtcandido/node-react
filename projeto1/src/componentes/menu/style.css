@@ -1,0 +1,14 @@
+
+div.menu {
+	display: flex;
+	direction: row;
+	align-items: center;
+	justify-content: space-between;
+	background-color: blue;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid black;
+	height:40px;
+	background-color: #00F;
+	color: white;
+}

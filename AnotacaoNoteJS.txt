@@ -1,0 +1,20 @@
+Instalação Yarn
+
+npm install --global yarn
+
+yarn --version
+
+Criar projeto NodeJS
+
+yarn init -y
+
+Instalando express
+
+yarn add express
+
+Instalando nodemon para não ter que restartar a aplicação a cada mudança. Parâmetro -D para apenas ambiente de desenvolvimento.
+
+yarn add nodemon -D
+
+
+
