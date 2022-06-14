@@ -16,5 +16,25 @@ Instalando nodemon para não ter que restartar a aplicação a cada mudança. Pa
 
 yarn add nodemon -D
 
+Instalar typescript
+
+yarn add typescript -D 
+
+Instalar types do express
+
+yarn add @types/express -D
+
+Iniciar typescript no projeto
+
+yarn tsc --init
+
+Pacote necessário para criar script para execução da aplicação com typescript
+
+yarn add ts-node-dev -D
+
+Instalar tratamento de erros
+
+yarn add express-async-errors
+
 
 
